@@ -13,6 +13,7 @@ public class Holamundo {
      * @param args the command line arguments
      */
     public static void main(String[] args) {
+        JOptionPane.showMessageDialog(null, "hola mundo!!");
         System.out.println("********************");
         System.out.println("Hola Mundo");
         System.out.println("********************");
@@ -25,6 +26,7 @@ public class Holamundo {
           System.out.println("VERDE");
            System.out.println("ROJO");
             JOptionPane.showMessageDialog(null, "ADIOS!!");
+            
                 
           
     }
